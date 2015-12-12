@@ -1,8 +1,18 @@
 # TeachRec
-##使用平板或手机上课的最经济的解决方案，不需要购置任何新的设备，你只需要一台运行Android系统的手机或平板。
-1. 首先在手机或平板上装上这个应用 
-2. 在连接投影仪的电脑上安装PC客户端 
-3. 让PC和手机或平板处于同一个无线网内。
+
+使用平板或手机上课的最经济的解决方案，不需要购置任何新的设备，你只需要一台运行Android系统的手机或平板。
+
+## 怎么使用
+
+### 第一步 
+在手机或平板上安装应用 [下载](https://play.google.com/store/apps/details?id=com.alei.teachrec) 
+
+### 第二步 
+在连接投影仪的电脑上安装PC客户端 [下载](http://download.teachrec.com/pc-installer.exe)
+
+### 第三步 
+让PC和手机或平板处于同一个局域网内, 学生端[下载地址](http://download.teachrec.com/teachrec-student.apk)
+
 
 ## 本应用将提供以下功能：
 * 播放和控制PPT的播放
