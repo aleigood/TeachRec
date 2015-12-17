@@ -5,7 +5,7 @@ Tablet or mobile phone use in class the most economical solution, does not requi
 ### New experience
 Never again with a heavy laptop to the classroom, and you can even hold it while walking to speak.
 
-### low cost
+### Low cost
 It does not require the purchase of additional equipment to complete the real-time video recording and whiteboard projection. All you need is an Android phone or tablet.
 
 ### Easy to use
