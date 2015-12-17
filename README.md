@@ -4,15 +4,12 @@
 
 ## 怎么使用
 
-### 第一步 
-在手机或平板上安装应用 [下载](https://play.google.com/store/apps/details?id=com.alei.teachrec) 
 
-### 第二步 
-在连接投影仪的电脑上安装PC客户端 [下载](http://download.teachrec.com/pc-installer.exe)
+* **Step 1** 在手机或平板上安装应用 [下载](https://play.google.com/store/apps/details?id=com.alei.teachrec) 
 
-### 第三步 
-让PC和手机或平板处于同一个局域网内, 学生端[下载地址](http://download.teachrec.com/teachrec-student.apk)
+* **Step 2** 在连接投影仪的电脑上安装PC客户端 [下载](http://download.teachrec.com/pc-installer.exe)
 
+* **Step 3** 让PC和手机或平板处于同一个局域网内
 
 ## 本应用将提供以下功能：
 * 播放和控制PPT的播放
