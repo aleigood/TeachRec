@@ -1,28 +1,25 @@
 # TeachRec
-使用平板或手机上课的最经济的解决方案，不需要购置任何新的设备，你只需要一台运行Android系统的手机或平板。
+Tablet or mobile phone use in class the most economical solution, does not require the purchase of any new equipment, you only need a phone or tablet running Android system.
 
-## 产品特点
-### 全新体验
-上课的时候再也不要带着笨重的笔记本电脑了，甚至你可以拿着它边走边讲。
+## Features
+### New experience
+Never again with a heavy laptop to the classroom, and you can even hold it while walking to speak.
 
-### 低成本
-不需要购置其他的设备就可以完成实时的视频录制和白板的投影。您需要的只是一部Android手机或平板
+### low cost
+It does not require the purchase of additional equipment to complete the real-time video recording and whiteboard projection. All you need is an Android phone or tablet.
 
-### 简单易用
-你要做的只是安装一个应用，然后打开它
+### Easy to use
+You have to do is install an application, and then use it.
 
-## 使用方法
-* **步骤1** 在手机或平板上安装应用 [下载](https://play.google.com/store/apps/details?id=com.alei.teachrec) 
+## Instructions
+* ** Step 1 ** installed on the phone or tablet application [download](https://play.google.com/store/apps/details?id=com.alei.teachrec)
 
-* **步骤2** 在连接投影仪的电脑上安装PC客户端 [下载](http://download.teachrec.com/pc-installer.exe)
+* Step 2 ** ** PC client installed on the computer connected to the projector's end [download](http://download.teachrec.com/pc-installer.exe)
 
-* **步骤3** 让PC和手机或平板处于同一个局域网内
+* Step 3 ** ** let PC and mobile phone or tablet in the same LAN
 
-## 本应用将提供以下功能：
-* 遥控制PPT的播放
-
-* 实时的手写批注和白板
-
-* 边上课边录制讲课视频
-
-* 可建立或加入讨论组，可以进行视频的分享、课堂效果调查和在线的提问、解答和讨论。
+## This application provides the following functions:
+* Remote control playback PPT
+* Real-time handwritten annotations and whiteboard
+* Side class while recording video lectures
+* You can establish or join a discussion group, you can share video, classroom and on-line surveys effect questions, answers and discussion.
