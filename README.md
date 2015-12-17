@@ -9,17 +9,17 @@ Never again with a heavy laptop to the classroom, and you can even hold it while
 It does not require the purchase of additional equipment to complete the real-time video recording and whiteboard projection. All you need is an Android phone or tablet.
 
 ### Easy to use
-You have to do is install an application, and then use it.
+You have to do is install an application and then use it.
 
 ## Instructions
-* **Step 1** installed on the phone or tablet application [Download](https://play.google.com/store/apps/details?id=com.alei.teachrec)
+* **Step 1** Install the application on your phone or tablet. [Download](https://play.google.com/store/apps/details?id=com.alei.teachrec)
 
-* **Step 2** PC client installed on the computer connected to the projector's end [Download](http://download.teachrec.com/pc-installer.exe)
+* **Step 2** Installing PC client on the computer which connected projector. [Download](http://download.teachrec.com/pc-installer.exe)
 
-* **Step 3** let PC and mobile phone or tablet in the same LAN
+* **Step 3** Let PC and mobile phone or tablet in the same LAN.
 
 ## This application provides the following functions:
-* Remote control playback PPT
-* Real-time handwritten annotations and whiteboard
-* Side class while recording video lectures
-* You can establish or join a discussion group, you can share video, classroom and on-line surveys effect questions, answers and discussion.
+* Remote control PPT playback.
+* Real-time handwritten annotations and whiteboard.
+* In the lecture while recording video.
+* You can establish or join discussion groups, share videos, classroom effectiveness survey, online questions, answers and discussion.
