@@ -22,4 +22,4 @@ You have to do is install an application and then use it.
 * Remote control PPT playback.
 * Real-time handwritten annotations and whiteboard.
 * In the lecture while recording video.
-* You can establish or join discussion groups, share videos, classroom effectiveness survey, online questions, answers and discussion.
+* You can establish or join discussion groups, share videos, classroom effectiveness survey, online questions, answers and discussion. [Student Client](http://download.teachrec.com/teachrec-student.apk)
