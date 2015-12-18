@@ -18,7 +18,7 @@ You have to do is install an application and then use it.
 
 * **Step 3** Let PC and mobile phone or tablet in the same LAN.
 
-## Functions:
+## Functions
 * Remote control PPT playback.
 * Real-time handwritten annotations and whiteboard.
 * In the lecture while recording video.
